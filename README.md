@@ -1,1 +1,7 @@
-# esm206_lab4_part2_rm
+# README
+
+Renata Lab 4, Part 2
+
+-point 1
+-point 2
+-point 3
